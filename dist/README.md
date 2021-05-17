@@ -13,7 +13,7 @@ Url [(List)](https://assets.foxhole.tools/LIST.html#items) :
 ### Map images
 
 Url [(List)](https://assets.foxhole.tools/LIST.html#map) :
-- `https://assets.foxhole.tools/images/map/{name}.png`
+`https://assets.foxhole.tools/images/map/{name}.png`
 
 ### Menus images
 
