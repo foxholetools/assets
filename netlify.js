@@ -42,7 +42,7 @@ async function run()
         },
     };
 
-    await client.deploy('c5af1cb0-d7d7-4bee-ab04-99efa0eb60bb', 'dist', opts);
+    await client.deploy('818f6394-0f43-46b4-9ecc-d0030a7a6031', 'dist', opts);
 
 }
 

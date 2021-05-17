@@ -7,88 +7,38 @@ All images these are property of Clapfoot Inc.
 
 ### Items images
 
-Links format for Map Icons:
-- https://assets.foxhole.tools/images/items/{name}.png
-- https://foxhole-tools.github.io/assets/public/images/items/{name}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/images/items/{name}.png
-
-List :
-- https://assets.foxhole.tools/LIST.html#items
-- https://foxhole-tools.github.io/assets/public/LIST.html#items
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/LIST.html#items
+Url [(List)](https://assets.foxhole.tools/LIST.html#items) :
+`https://assets.foxhole.tools/images/items/{name}.png`
 
 ### Map images
 
-Links format for Map Icons:
-- https://assets.foxhole.tools/images/map/{name}.png
-- https://foxhole-tools.github.io/assets/public/images/map/{name}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/images/map/{name}.png
-
-List :
-- https://assets.foxhole.tools/LIST.html#map
-- https://foxhole-tools.github.io/assets/public/LIST.html#map
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/LIST.html#map
+Url [(List)](https://assets.foxhole.tools/LIST.html#map) :
+- `https://assets.foxhole.tools/images/map/{name}.png`
 
 ### Menus images
 
-Links format for Map Icons:
-- https://assets.foxhole.tools/images/menus/{name}.png
-- https://foxhole-tools.github.io/assets/public/images/menus/{name}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/images/menus/{name}.png
-
-List :
-- https://assets.foxhole.tools/LIST.html#menus
-- https://foxhole-tools.github.io/assets/public/LIST.html#menus
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/LIST.html#menus
+Url [(List)](https://assets.foxhole.tools/LIST.html#menus) :
+`https://assets.foxhole.tools/images/menus/{name}.png`
 
 ### Structures images
 
-Links format for Map Icons:
-- https://assets.foxhole.tools/images/structures/{name}.png#
-- https://foxhole-tools.github.io/assets/public/images/structures/{name}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/images/structures/{name}.png
-
-List :
-- https://assets.foxhole.tools/LIST.html#structures
-- https://foxhole-tools.github.io/assets/public/LIST.html#structures
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/LIST.html#structures
+Url [(List)](https://assets.foxhole.tools/LIST.html#structures) :
+`https://assets.foxhole.tools/images/structures/{name}.png`
 
 ### Techtree
 
-Links format for Map Icons:
-- https://assets.foxhole.tools/images/techtree/{name}.png
-- https://foxhole-tools.github.io/assets/public/images/techtree/{name}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/images/techtree/{name}.png
-
-List :
-- https://assets.foxhole.tools/LIST.html#techtree
-- https://foxhole-tools.github.io/assets/public/LIST.html#techtree
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/LIST.html#techtree
+Url [(List)](https://assets.foxhole.tools/LIST.html#techtree) :
+`https://assets.foxhole.tools/images/techtree/{name}.png`
 
 ### Vehicles images
 
-Links format for Map Icons:
-- https://assets.foxhole.tools/images/vehicles/{name}.png
-- https://foxhole-tools.github.io/assets/public/images/vehicles/{name}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/images/vehicles/{name}.png
-
-List :
-- https://assets.foxhole.tools/LIST.html#vehicles
-- https://foxhole-tools.github.io/assets/public/LIST.html#vehicles
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/LIST.html#vehicles
+Url [(List)](https://assets.foxhole.tools/LIST.html#vehicles) :
+`https://assets.foxhole.tools/images/vehicles/{name}.png`
 
 ### Hegaxon maps
 
-Links format and alternatives:
-- https://assets.foxhole.tools/maps/clasic/{name}.png
-- https://foxhole-tools.github.io/assets/public/maps/clasic/{name}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/maps/clasic/{name}.png
-
-List :
-- https://assets.foxhole.tools/LIST.html#hexagon-map
-- https://foxhole-tools.github.io/assets/public/LIST.html#hexagon-map
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/LIST.html#hexagon-map
-
+Url [(List)](https://assets.foxhole.tools/LIST.html#hexagon-map) : 
+`https://assets.foxhole.tools/maps/clasic/{name}.png`
 
 ### Warmap tiles (clasic only)
 
@@ -96,10 +46,8 @@ List :
 zoom: 1 - 7
 ```
 
-Links format for Tiles:
-- https://assets.foxhole.tools/maps/tiles/warmap/{z}/{z}_{x}_{y}.png
-- https://foxhole-tools.github.io/assets/public/maps/tiles/warmap/{z}/{z}_{x}_{y}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/maps/tiles/warmap/{z}/{z}_{x}_{y}.png
+Url [(List)](https://assets.foxhole.tools/LIST.html#hexagon-map):
+`https://assets.foxhole.tools/maps/tiles/warmap/{z}/{z}_{x}_{y}.png`
 
 ### Hexagone Tiles
 
@@ -108,7 +56,5 @@ name: Refer to Maps map for name
 zoom: 1 - 7
 ```
 
-Links format for Tiles:
-- https://assets.foxhole.tools/maps/tiles/{name}/{z}/{z}_{x}_{y}.png
-- https://foxhole-tools.github.io/assets/public/maps/tiles/{name}/{z}_{x}_{y}.png
-- https://raw.githubusercontent.com/foxhole-tools/assets/master/dist/maps/tiles/{name}/{z}_{x}_{y}.png
+Url [(List)](https://assets.foxhole.tools/LIST.html#hexagon-map) :
+`https://assets.foxhole.tools/maps/tiles/{name}/{z}/{z}_{x}_{y}.png`
