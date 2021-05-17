@@ -1,0 +1,39 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "Assets for foxhole projects",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxhole-tools/assets.git"
+  },
+  "keywords": [
+    "foxhole",
+    "map",
+    "maps",
+    "image",
+    "images",
+    "icon",
+    "icons"
+  ],
+  "author": "samuelds",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/foxhole-tools/assets/issues"
+  },
+  "homepage": "https://github.com/foxhole-tools/assets#readme",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "cli-progress": "^3.9.0",
+    "data-store": "^4.0.3",
+    "netlify": "^6.1.29",
+    "open": "^8.0.9",
+    "pngjs": "^6.0.0",
+    "sharp": "^0.28.1",
+    "tga": "^1.0.4",
+    "tga2png": "^0.1.3"
+  }
+}
