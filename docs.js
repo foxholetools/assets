@@ -23,6 +23,9 @@ async function run()
     // Remove file
     await fs.writeFileSync(fileName, "## Credits\nAll images these are property of Clapfoot Inc.\n");
 
+    // Uniforms
+    await addToMd('Uniforms', "images/uniforms");
+	
     // Items
     await addToMd('Items', "images/items");
 

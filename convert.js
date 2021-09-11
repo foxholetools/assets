@@ -13,6 +13,7 @@ const directorys = [
     { source: 'HexMaps', dest: 'maps/satellite' },
     { source: 'HexMaps/Processed', dest: 'maps/clasic' },
     { source: 'ItemIcons', dest: 'icons/items' },
+	{ source: 'ItemIcons/Uniforms', dest: 'icons/uniforms' },
     { source: 'MapIcons', dest: 'icons/map' },
     { source: 'MapIcons/Intel', dest: 'icons/map' },
     { source: 'Menus', dest: 'icons/menus' },
@@ -28,6 +29,7 @@ async function run()
     console.log('-----[ Start convertion ]-----');;
     for await (directory of directorys)
     {
+		console.log(sourcesDirectory + '/' + directory.source, publicDirectory + '/' + directory.dest);
         const sourcePath = sourcesDirectory + '/' + directory.source;
         const destPath = publicDirectory + '/' + directory.dest;
         await tgaToPng(sourcePath, destPath);
