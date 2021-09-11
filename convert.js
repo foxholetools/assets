@@ -29,7 +29,7 @@ async function run()
     console.log('-----[ Start convertion ]-----');;
     for await (directory of directorys)
     {
-		console.log(sourcesDirectory + '/' + directory.source, publicDirectory + '/' + directory.dest);
+		console.log("Start convert " + source);
         const sourcePath = sourcesDirectory + '/' + directory.source;
         const destPath = publicDirectory + '/' + directory.dest;
         await tgaToPng(sourcePath, destPath);

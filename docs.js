@@ -24,25 +24,25 @@ async function run()
     await fs.writeFileSync(fileName, "## Credits\nAll images these are property of Clapfoot Inc.\n");
 
     // Uniforms
-    await addToMd('Uniforms', "images/uniforms");
+    await addToMd('Uniforms', "icons/uniforms");
 	
     // Items
-    await addToMd('Items', "images/items");
+    await addToMd('Items', "icons/items");
 
     // Map
-    await addToMd('Map', "images/map");
+    await addToMd('Map', "icons/map");
 
     // Menu 
-    await addToMd('Menus', "images/menus");
+    await addToMd('Menus', "icons/menus");
 
     // Structures 
-    await addToMd('Structuresenu', "images/structures");
+    await addToMd('Structuresenu', "icons/structures");
 
     // Techtree 
-    await addToMd('Techtree', "images/techtree");
+    await addToMd('Techtree', "icons/techtree");
 
     // Vehicles 
-    await addToMd('Vehicles', "images/vehicles");
+    await addToMd('Vehicles', "icons/vehicles");
 
     // Hexagon map 
     await addToMd('Hexagon map', "maps/clasic");
