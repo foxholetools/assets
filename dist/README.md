@@ -7,33 +7,38 @@ All images these are property of Clapfoot Inc.
 
 ### Items images
 
+Url [(List)](https://assets.foxhole.tools/LIST.html#uniforms) :
+`https://assets.foxhole.tools/icons/uniforms/{name}.png`
+
+### Items images
+
 Url [(List)](https://assets.foxhole.tools/LIST.html#items) :
-`https://assets.foxhole.tools/images/items/{name}.png`
+`https://assets.foxhole.tools/icons/items/{name}.png`
 
 ### Map images
 
 Url [(List)](https://assets.foxhole.tools/LIST.html#map) :
-`https://assets.foxhole.tools/images/map/{name}.png`
+`https://assets.foxhole.tools/icons/map/{name}.png`
 
 ### Menus images
 
 Url [(List)](https://assets.foxhole.tools/LIST.html#menus) :
-`https://assets.foxhole.tools/images/menus/{name}.png`
+`https://assets.foxhole.tools/icons/menus/{name}.png`
 
 ### Structures images
 
 Url [(List)](https://assets.foxhole.tools/LIST.html#structures) :
-`https://assets.foxhole.tools/images/structures/{name}.png`
+`https://assets.foxhole.tools/icons/structures/{name}.png`
 
 ### Techtree
 
 Url [(List)](https://assets.foxhole.tools/LIST.html#techtree) :
-`https://assets.foxhole.tools/images/techtree/{name}.png`
+`https://assets.foxhole.tools/icons/techtree/{name}.png`
 
 ### Vehicles images
 
 Url [(List)](https://assets.foxhole.tools/LIST.html#vehicles) :
-`https://assets.foxhole.tools/images/vehicles/{name}.png`
+`https://assets.foxhole.tools/icons/vehicles/{name}.png`
 
 ### Hegaxon maps
 
