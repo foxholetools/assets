@@ -4,7 +4,7 @@ const { createCanvas, loadImage } = require('canvas');
 // Map size
 // H : 5 (4440px)
 // W : ~7 (7168px)
-const canvas = createCanvas(5644, 4440);
+const canvas = createCanvas(5644, 6216);
 const ctx = canvas.getContext('2d');
 
 // 1024 x 888
@@ -12,105 +12,165 @@ const ctx = canvas.getContext('2d');
 // + x 770
 const maps = {
     // 1 line (0)
-    'reachingtrail': {
+	'basinsionnach': {
         x: 770 * 3,
         y: 0
-    },
-    // 2 line (444)
-    'mooringcounty': {
+	},
+	// 2 line (444)
+    'speakingwoods': {
         x: 770 * 2,
         y: 444
     },
-    'viperpit': {
+    'howlcounty': {
         x: 770 * 4,
         y: 444
     },
     // 3 line (888)
-    'stonecradle': {
+    'callumscape': {
         x: 770,
         y: 888
     },
-    'callahanspassage': {
+    'reachingtrail': {
         x: 770 * 3,
         y: 888
     },
-    'weatheredexpanse': {
+    'clansheadvalley': {
         x: 770 * 5,
         y: 888
     },
     // 4 line (1332)
-    'oarbreaker': {
+    'nevishline': {
         x: 0,
         y: 1332
     },
-    'linnmercy': {
+    'mooringcounty': {
         x: 770 * 2,
         y: 1332
     },
-    'marbanhollow': {
+    'viperpit': {
         x: 770 * 4,
         y: 1332
     },
-    'godcrofts': {
+    'morgenscrossing': {
         x: 770 * 6,
         y: 1332
     },
     // 5 line (1776)
-    'farranaccoast': {
+    'stonecradle': {
         x: 770,
         y: 1776
     },
-    'deadlands': {
+    'callahanspassage': {
         x: 770 * 3,
         y: 1776
     },
-    'endlessshore': {
+    'weatheredexpanse': {
         x: 770 * 5,
         y: 1776
     },
     // 6 line (2220)
-    'fishermansrow': {
+    'oarbreaker': {
         x: 0,
         y: 2220
     },
-    'lochmor': {
+    'linnmercy': {
         x: 770 * 2,
         y: 2220
     },
-    'drownedvale': {
+    'marbanhollow': {
         x: 770 * 4,
         y: 2220
     },
-    'tempestisland': {
+    'godcrofts': {
         x: 770 * 6,
         y: 2220
     },
     // 7 line (2664)
-    'westgate': {
+    'farranaccoast': {
         x: 770,
         y: 2664
     },
-    'umbralwildwood': {
+    'deadlands': {
         x: 770 * 3,
         y: 2664
     },
-    'allodsbight': {
+    'endlessshore': {
         x: 770 * 5,
         y: 2664
     },
     // 8 line (3108)
-    'heartlands': {
+    'fishermansrow': {
+        x: 0,
+        y: 3108
+    },
+    'lochmor': {
         x: 770 * 2,
         y: 3108
     },
-    'shackledchasm': {
+    'drownedvale': {
         x: 770 * 4,
         y: 3108
     },
+    'tempestisland': {
+        x: 770 * 6,
+        y: 3108
+    },
     // 9 line (3552)
-    'greatmarch': {
+    'westgate': {
+        x: 770,
+        y: 3552
+    },
+    'umbralwildwood': {
         x: 770 * 3,
         y: 3552
+    },
+    'allodsbight': {
+        x: 770 * 5,
+        y: 3552
+    },
+    // 10 line (3996)
+    'origin': {
+        x: 0,
+        y: 3996
+    },
+    'heartlands': {
+        x: 770 * 2,
+        y: 3996
+    },
+    'shackledchasm': {
+        x: 770 * 4,
+        y: 3996
+    },
+    'thefingers': {
+        x: 770 * 6,
+        y: 3996
+    },
+    // 11 line (4440)
+    'ashfields': {
+        x: 770,
+        y: 4440
+    },
+    'greatmarch': {
+        x: 770 * 3,
+        y: 4440
+    },
+    'terminus': {
+        x: 770 * 5,
+        y: 4440
+    },
+    // 12 line (4884)
+    'redriver': {
+        x: 770 * 2,
+        y: 4884
+    },
+    'acrithia': {
+        x: 770 * 4,
+        y: 4884
+    },
+    // 13 line (5328)
+    'kalokai': {
+        x: 770 * 3,
+        y: 5328
     },
 };
 
