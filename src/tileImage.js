@@ -11,9 +11,10 @@ async function tileImage(input, options)
     // Config
     options = options || {};
     const tmpDir = options.tmpDir || appDirectory + '/tmp';
-    const outputDir = options.outputDir || publicDirectory + '/Tiles';
+    const outputDir = options.outputDir || publicDirectory + '/maps/tiles';
     const minZoom = options.minZoom || 0;
     const maxZoom = options.maxZoom || 7;
+    const tileSize = options.tileSize || 256;
 
     // Get filename
     const filePath = input.split('/');
@@ -89,7 +90,7 @@ async function tileImage(input, options)
         }
 
         const resized = tmpDir + '/' + fileName + '-resized-' + zoom + '.png';
-        const pixelSize = 256 * 2**zoom;
+        const pixelSize = tileSize * 2**zoom;
 
         if (!fs.existsSync(resized))
         {
@@ -134,10 +135,10 @@ async function tileImage(input, options)
                 const tileName = outputDir + '/' + fileName + '/' + zoom + '/' + zoom + '_' + col  + '_' + row + '.png';
                 const img = image;
                 await img.extract({
-                    left: col*256,
-                    top: row*256,
-                    width: 256,
-                    height: 256
+                    left: col*tileSize,
+                    top: row*tileSize,
+                    width: tileSize,
+                    height: tileSize
                 })
                 .png({
                     compressionLevel: 9,

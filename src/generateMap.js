@@ -188,7 +188,7 @@ async function generateClasicMap()
     }   
 
     const buf = canvas.toBuffer();
-    fs.writeFileSync(publicDirectory + "/maps/clasic/global.png", buf);
+    fs.writeFileSync(publicDirectory + "/maps/clasic/warmap.png", buf);
 
 }
 
@@ -206,7 +206,7 @@ async function generateClasicMap()
      }   
  
      const buf = canvas.toBuffer();
-     fs.writeFileSync(publicDirectory + "/maps/satellite/global.png", buf);
+     fs.writeFileSync(publicDirectory + "/maps/satellite/warmap.png", buf);
  
  }
 
