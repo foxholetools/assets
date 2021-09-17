@@ -60,7 +60,7 @@ async function run()
 {
     // Tile war map
     console.log('-----[ Start wap map tiles ]-----');
-    tileImage('dist/maps/clasic/warmap.png', { minZoom: 0, maxZoom: 3 });
+    tileImage('dist/maps/clasic/warmap.png', { minZoom: 4, maxZoom: 4 });
     console.log('-----[ End wap map tiles ]-----');
 
     // Tile hexagons
