@@ -15,12 +15,12 @@ global.multibar = new cliProgress.MultiBar({
 }, cliProgress.Presets.shades_grey);
 
 const hexagonsList = [
-    'acrithia',
+    // 'acrithia', // #
     // 'allodsbight',
-    'ashfields',
-    'basinsionnach',
+    // 'ashfields', // #
+    // 'basinsionnach', // #
     // 'callahanspassage',
-    'clansheadvalley',
+    // 'clansheadvalley', // #
     // 'deadlands',
     // 'drownedvale',
     // 'endlessshore',
@@ -29,49 +29,49 @@ const hexagonsList = [
     // 'godcrofts',
     // 'greatmarch',
     // 'heartlands',    
-    'howlcounty',
-    'kalokai',
+    // 'howlcounty', // #
+    // 'kalokai', // #
     // 'linnMercy',
     // 'lochMor',
-    'nevishline',
+    // 'nevishline', // #
     // 'marbanhollow',
-    'morgenscrossing',
+    // 'morgenscrossing', // #
     // 'mooringcounty',
     // 'oarbreaker',
-    'origin',
+    // 'origin', // #
     // 'reachingtrail',
-    'redriver',
+    // 'redriver', // #
     // 'shackledchasm',
-    'speakingwoods',
-    // 'stonecradle',
-    // 'tempestisland',
-    'terminus',
-    'thefingers',
-    // 'umbralwildwood',
-    // 'viperpit',
-    // 'weatheredexpanse',
-    // 'westgate',
+    'speakingwoods', // #
+    'stonecradle',
+    'tempestisland',
+    'terminus', // #
+    'thefingers', // #
+    'umbralwildwood',
+    'viperpit',
+    'weatheredexpanse',
+    'westgate',
 
-    // 'homeregionc',
-    // 'homeregionw',
+    'homeregionc',
+    'homeregionw',
 ];
 
 async function run()
 {
     // Tile war map
-    console.log('-----[ Start wap map tiles ]-----');
-    tileImage('dist/maps/clasic/warmap.png', { minZoom: 6, maxZoom: 6 });
-    console.log('-----[ End wap map tiles ]-----');
+    //console.log('-----[ Start wap map tiles ]-----');
+    //tileImage('dist/maps/clasic/warmap.png', { minZoom: 7, maxZoom: 7 });
+    //console.log('-----[ End wap map tiles ]-----');
 
     // Tile hexagons
-    // console.log('-----[ Start hexagons tiles generation ]-----');
-    // for await (hexagon of hexagonsList)
-    // {
-    //     console.log('Start ' + hexagon + ' hexagon');
-    //     await tileImage('dist/maps/clasic/' + hexagon + '.png', { minZoom: 7, maxZoom: 7 });
-    //     // await tileImage('dist/maps/satellite/' + hexagon + '.png');
-    // }
-    // console.log('-----[ End hexagons tiles generation ]-----');
+    console.log('-----[ Start hexagons tiles generation ]-----');
+    for await (hexagon of hexagonsList)
+    {
+        console.log('Start ' + hexagon + ' hexagon');
+        await tileImage('dist/maps/clasic/' + hexagon + '.png', { minZoom: 0, maxZoom: 6 });
+		// await tileImage('dist/maps/satellite/' + hexagon + '.png');
+    }
+    console.log('-----[ End hexagons tiles generation ]-----');
 }
 
 // Run
