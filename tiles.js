@@ -15,33 +15,33 @@ global.multibar = new cliProgress.MultiBar({
 }, cliProgress.Presets.shades_grey);
 
 const hexagonsList = [
-    // 'acrithia', // #
-    // 'allodsbight',
-    // 'ashfields', // #
-    // 'basinsionnach', // #
-    // 'callahanspassage',
-    // 'clansheadvalley', // #
-    // 'deadlands',
-    // 'drownedvale',
-    // 'endlessshore',
-    // 'farranaccoast',
-    // 'fishermansrow',
-    // 'godcrofts',
-    // 'greatmarch',
-    // 'heartlands',    
-    // 'howlcounty', // #
-    // 'kalokai', // #
-    // 'linnMercy',
-    // 'lochMor',
-    // 'nevishline', // #
-    // 'marbanhollow',
-    // 'morgenscrossing', // #
-    // 'mooringcounty',
-    // 'oarbreaker',
-    // 'origin', // #
-    // 'reachingtrail',
-    // 'redriver', // #
-    // 'shackledchasm',
+    'acrithia', // #
+    'allodsbight',
+    'ashfields', // #
+    'basinsionnach', // #
+    'callahanspassage',
+    'clansheadvalley', // #
+    'deadlands',
+    'drownedvale',
+    'endlessshore',
+    'farranaccoast',
+    'fishermansrow',
+    'godcrofts',
+    'greatmarch',
+    'heartlands',    
+    'howlcounty', // #
+    'kalokai', // #
+    'linnMercy',
+    'lochMor',
+    'nevishline', // #
+    'marbanhollow',
+    'morgenscrossing', // #
+    'mooringcounty',
+    'oarbreaker',
+    'origin', // #
+    'reachingtrail',
+    'redriver', // #
+    'shackledchasm',
     'speakingwoods', // #
     'stonecradle',
     'tempestisland',
