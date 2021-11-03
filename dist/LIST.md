@@ -592,6 +592,7 @@ All images these are property of Clapfoot Inc.
 | ![sandbagsstructure.png](icons/structures/sandbagsstructure.png) | sandbagsstructure.png |
 | ![satchelcharge.png](icons/structures/satchelcharge.png) | satchelcharge.png |
 | ![scrapmine.png](icons/structures/scrapmine.png) | scrapmine.png |
+| ![shippingcontainershort.png](icons/structures/shippingcontainershort.png) | shippingcontainershort.png |
 | ![shippingcontainerstructure.png](icons/structures/shippingcontainerstructure.png) | shippingcontainerstructure.png |
 | ![staticartillerystructure.png](icons/structures/staticartillerystructure.png) | staticartillerystructure.png |
 | ![storageitem.png](icons/structures/storageitem.png) | storageitem.png |
@@ -738,7 +739,6 @@ All images these are property of Clapfoot Inc.
 | ![fishermansrow.png](maps/clasic/fishermansrow.png) | fishermansrow.png |
 | ![fishermansrowfcl.png](maps/clasic/fishermansrowfcl.png) | fishermansrowfcl.png |
 | ![foxholefestival.png](maps/clasic/foxholefestival.png) | foxholefestival.png |
-| ![global.png](maps/clasic/global.png) | global.png |
 | ![godcrofts.png](maps/clasic/godcrofts.png) | godcrofts.png |
 | ![greatmarch.png](maps/clasic/greatmarch.png) | greatmarch.png |
 | ![heartlands.png](maps/clasic/heartlands.png) | heartlands.png |
@@ -764,6 +764,7 @@ All images these are property of Clapfoot Inc.
 | ![thefingers.png](maps/clasic/thefingers.png) | thefingers.png |
 | ![umbralwildwood.png](maps/clasic/umbralwildwood.png) | umbralwildwood.png |
 | ![viperpit.png](maps/clasic/viperpit.png) | viperpit.png |
+| ![warmap.png](maps/clasic/warmap.png) | warmap.png |
 | ![weatheredexpanse.png](maps/clasic/weatheredexpanse.png) | weatheredexpanse.png |
 | ![westgate.png](maps/clasic/westgate.png) | westgate.png |
 
