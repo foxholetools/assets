@@ -65,19 +65,6 @@
         "CrateRetrieveTime": 10.0,
         "ResearchLevel": 0
       },
-      "MGAmmo": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 100
-          }
-        ],
-        "QuantityPerCrate": 20,
-        "CrateProductionTime": 70.0,
-        "SingleRetrieveTime": 3.5,
-        "CrateRetrieveTime": 14.0,
-        "ResearchLevel": 0
-      },
       "LightArtilleryAmmo": {
         "CostPerCrate": [
           {
@@ -415,19 +402,6 @@
         "CrateRetrieveTime": 10.0,
         "ResearchLevel": 0
       },
-      "SniperRifleAmmo": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 150
-          }
-        ],
-        "QuantityPerCrate": 10,
-        "CrateProductionTime": 100.0,
-        "SingleRetrieveTime": 10.0,
-        "CrateRetrieveTime": 20.0,
-        "ResearchLevel": 0
-      },
       "ShotgunAmmo": {
         "CostPerCrate": [
           {
@@ -475,19 +449,6 @@
         "CrateRetrieveTime": 22.5,
         "ResearchLevel": 0
       },
-      "RifleAmmo": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 80
-          }
-        ],
-        "QuantityPerCrate": 40,
-        "CrateProductionTime": 50.0,
-        "SingleRetrieveTime": 1.25,
-        "CrateRetrieveTime": 10.0,
-        "ResearchLevel": 0
-      },
       "Revolver": {
         "CostPerCrate": [
           {
@@ -499,19 +460,6 @@
         "CrateProductionTime": 50.0,
         "SingleRetrieveTime": 2.5,
         "CrateRetrieveTime": 10.0,
-        "ResearchLevel": 0
-      },
-      "RevolverAmmo": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 40
-          }
-        ],
-        "QuantityPerCrate": 40,
-        "CrateProductionTime": 40.0,
-        "SingleRetrieveTime": 1.0,
-        "CrateRetrieveTime": 8.0,
         "ResearchLevel": 0
       },
       "ResearchPart": {
@@ -895,19 +843,6 @@
         "CrateRetrieveTime": 20.0,
         "ResearchLevel": 0
       },
-      "AssaultRifleAmmo": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 120
-          }
-        ],
-        "QuantityPerCrate": 30,
-        "CrateProductionTime": 60.0,
-        "SingleRetrieveTime": 1.5,
-        "CrateRetrieveTime": 12.0,
-        "ResearchLevel": 0
-      },
       "Binoculars": {
         "CostPerCrate": [
           {
@@ -1091,19 +1026,6 @@
         "CrateProductionTime": 100.0,
         "SingleRetrieveTime": 10.0,
         "CrateRetrieveTime": 20.0,
-        "ResearchLevel": 0
-      },
-      "SmokeGrenade": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 120
-          }
-        ],
-        "QuantityPerCrate": 10,
-        "CrateProductionTime": 75.0,
-        "SingleRetrieveTime": 7.5,
-        "CrateRetrieveTime": 15.0,
         "ResearchLevel": 0
       },
       "SniperRifleW": {
@@ -1943,19 +1865,6 @@
         "CrateRetrieveTime": 16.0,
         "ResearchLevel": 0
       },
-      "SMGHeavyC": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 120
-          }
-        ],
-        "QuantityPerCrate": 20,
-        "CrateProductionTime": 80.0,
-        "SingleRetrieveTime": 4.0,
-        "CrateRetrieveTime": 16.0,
-        "ResearchLevel": 0
-      },
       "AssaultRifleHeavyW": {
         "CostPerCrate": [
           {
@@ -1984,19 +1893,6 @@
         "CrateProductionTime": 75.0,
         "SingleRetrieveTime": 5.0,
         "CrateRetrieveTime": 15.0,
-        "ResearchLevel": 0
-      },
-      "AssaultRifleHeavyC": {
-        "CostPerCrate": [
-          {
-            "ItemCodeName": "Cloth",
-            "Quantity": 165
-          }
-        ],
-        "QuantityPerCrate": 10,
-        "CrateProductionTime": 80.0,
-        "SingleRetrieveTime": 5.0,
-        "CrateRetrieveTime": 20.0,
         "ResearchLevel": 0
       },
       "MGHeavyTW": {

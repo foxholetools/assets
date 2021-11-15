@@ -1,0 +1,1769 @@
+{
+    "RelicRifle": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 70,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Radio": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "RadioBackpack": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150
+        },
+        "productionTime": 75,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "Mortar": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "rmat": 25
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "MGAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 70,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "LightArtilleryAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 15,
+            "bmat": 60
+        },
+        "productionTime": 55,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "Sulfur": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Sulfur": 105
+        },
+        "productionTime": 200,
+        "quantity": 100,
+        "faction": "none"
+    },
+    "Components": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Components": 70
+        },
+        "productionTime": 200,
+        "quantity": 100,
+        "faction": "none"
+    },
+    "UpgradePart": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "RFuel": 20
+        },
+        "productionTime": 300,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Metal": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Metal": 45
+        },
+        "productionTime": 100,
+        "quantity": 100,
+        "faction": "none"
+    },
+    "GrenadeW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "emat": 20
+        },
+        "productionTime": 100,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "GasMask": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 160
+        },
+        "productionTime": 100,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "GarrisonSupplies": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 75
+        },
+        "productionTime": 240,
+        "quantity": 150,
+        "faction": "none"
+    },
+    "FirstAidKit": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 60
+        },
+        "productionTime": 35,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "FieldMGAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 100,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "GreenAsh": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 140
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "RocketBooster": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "rmat": 800
+        },
+        "productionTime": 600,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "SatchelCharge": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 15,
+            "bmat": 100
+        },
+        "productionTime": 100,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "Shotgun": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 120
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Totem": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 60,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "BunkerSupplies": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 75
+        },
+        "productionTime": 240,
+        "quantity": 150,
+        "faction": "none"
+    },
+    "Tripod": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 60,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "Cloth": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 500,
+        "quantity": 100,
+        "faction": "none"
+    },
+    "CrudeOil": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 1
+        },
+        "productionTime": 4,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Diesel": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 5,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Explosive": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 200
+        },
+        "productionTime": 750,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "HeavyExplosive": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 400
+        },
+        "productionTime": 1000,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "TechPart": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 50,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Petrol": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 15,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Wood": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "rmat": 400
+        },
+        "productionTime": 1000,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "SniperRifleAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "ShotgunAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 50,
+        "quantity": 40,
+        "faction": "none"
+    },
+    "RpgW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "rmat": 25
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "warden"
+    },
+    "RpgAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 75,
+            "bmat": 60
+        },
+        "productionTime": 112.5,
+        "quantity": 15,
+        "faction": "none"
+    },
+    "RifleAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 50,
+        "quantity": 40,
+        "faction": "none"
+    },
+    "Revolver": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 60
+        },
+        "productionTime": 50,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "RevolverAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 40
+        },
+        "productionTime": 40,
+        "quantity": 40,
+        "faction": "none"
+    },
+    "ResearchPart": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 50,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "PistolAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 40
+        },
+        "productionTime": 20,
+        "quantity": 40,
+        "faction": "none"
+    },
+    "MortarAmmoSH": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 15,
+            "bmat": 60
+        },
+        "productionTime": 112.5,
+        "quantity": 15,
+        "faction": "none"
+    },
+    "MortarAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 35,
+            "bmat": 60
+        },
+        "productionTime": 112.5,
+        "quantity": 15,
+        "faction": "none"
+    },
+    "MortarAmmoFL": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 10,
+            "bmat": 60
+        },
+        "productionTime": 112.5,
+        "quantity": 15,
+        "faction": "none"
+    },
+    "MortarTankAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 120,
+            "Heavyemat": 25
+        },
+        "productionTime": 150,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "MiniTankAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80,
+            "emat": 20
+        },
+        "productionTime": 100,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "MGC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "rmat": 30
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "colonial"
+    },
+    "Lore": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "LRArtilleryAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 30,
+            "bmat": 135
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "StaticArtilleryAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 20,
+            "bmat": 80
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "AssaultRifleW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 165
+        },
+        "productionTime": 80,
+        "quantity": 10,
+        "faction": "warden"
+    },
+    "Crate": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Iron": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 100,
+        "quantity": 100,
+        "faction": "none"
+    },
+    "Aluminum": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 100,
+        "quantity": 100,
+        "faction": "none"
+    },
+    "Copper": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 100,
+        "quantity": 100,
+        "faction": "none"
+    },
+    "ISGTC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "colonial"
+    },
+    "HEGrenade": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "emat": 10
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Concrete": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "StrongMaterials": 20
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "GasMaskFilter": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 50,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "CriticalSoldier": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 50
+        },
+        "productionTime": 125,
+        "quantity": 50,
+        "faction": "none"
+    },
+    "RifleLightW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 140
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "CarbineAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 50,
+        "quantity": 40,
+        "faction": "none"
+    },
+    "BloodPlasma": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 40,
+        "quantity": 80,
+        "faction": "none"
+    },
+    "Bayonet": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 40
+        },
+        "productionTime": 30,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "ATRifleW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150
+        },
+        "productionTime": 37.5,
+        "quantity": 5,
+        "faction": "warden"
+    },
+    "ATRifleAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "AssaultRifleC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 165
+        },
+        "productionTime": 80,
+        "quantity": 10,
+        "faction": "colonial"
+    },
+    "AssaultRifleAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 120
+        },
+        "productionTime": 60,
+        "quantity": 30,
+        "faction": "none"
+    },
+    "Binoculars": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 75
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "Bandages": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 160
+        },
+        "productionTime": 100,
+        "quantity": 80,
+        "faction": "none"
+    },
+    "ArtilleryAmmoHE": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 200,
+            "bmat": 200
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "ArtilleryAmmoAP": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "rmat": 200,
+            "bmat": 200
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "SledgeHammer": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "ArtilleryAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 100,
+            "bmat": 200
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "TraumaKit": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 50,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "Pistol": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 60
+        },
+        "productionTime": 50,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "TankMine": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "emat": 10
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "RifleW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 70,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "WorkHammer": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 20
+        },
+        "productionTime": 50,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "WorkWrench": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 75
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "Shovel": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "SniperRifleW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200,
+            "rmat": 15
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "warden"
+    },
+    "SoldierSupplies": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 80,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "StaticArtilleryAmmoGA": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 80,
+            "bmat": 120
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "StaticArtilleryAmmoSMK": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 40,
+            "bmat": 120
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "StickyBomb": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 50,
+            "bmat": 50
+        },
+        "productionTime": 75,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "SMGAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 50,
+        "quantity": 40,
+        "faction": "none"
+    },
+    "SMGW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 120
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "UnexplodedOrdnance": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 15,
+            "bmat": 100
+        },
+        "productionTime": 100,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "Warhead": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "rmat": 200,
+            "Heavyemat": 1000
+        },
+        "productionTime": 600,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Lore5": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Lore12": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 30,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Lore4": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 30,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Lore9": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Lore6": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Lore13": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 30,
+        "quantity": 1,
+        "faction": "none"
+    },
+    "Lore1": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Lore3": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Lore2": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Lore7": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "Lore8": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "None": 0
+        },
+        "productionTime": 600,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "BattleTankAmmoAP": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200,
+            "rmat": 200,
+            "emat": 400
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "BattleTankAmmoHE": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 400,
+            "bmat": 200
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "BattleTankAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 400,
+            "bmat": 200
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "BattleTankAmmoSH": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200,
+            "rmat": 80
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "LightTankAmmoAP": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 160,
+            "rmat": 60,
+            "emat": 120
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "LightTankAmmoHE": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 140,
+            "bmat": 160
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "LightTankAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 120,
+            "bmat": 160
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "LightTankAmmoSH": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 160,
+            "rmat": 40
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "FestivalFlag": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 5,
+        "quantity": 10,
+        "faction": "none"
+    },
+    "PrototypeKit": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 0,
+        "quantity": 0,
+        "faction": "none"
+    },
+    "ATAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 120,
+            "bmat": 120
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "IronA": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "IronA": 20
+        },
+        "productionTime": 1000,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "AluminumA": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "AluminumA": 20
+        },
+        "productionTime": 1000,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "ATMortar": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "rmat": 25
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "SoulstoneT1": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 100,
+        "quantity": 50,
+        "faction": "none"
+    },
+    "SoulstoneT2": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200
+        },
+        "productionTime": 100,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "SoulstoneT3": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 300,
+            "Heavyemat": 50
+        },
+        "productionTime": 100,
+        "quantity": 3,
+        "faction": "none"
+    },
+    "ZombieWeapon": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 0,
+        "quantity": 0,
+        "faction": "none"
+    },
+    "WoundedCarriedPlayer": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 0,
+        "quantity": 0,
+        "faction": "none"
+    },
+    "RelicMaterials": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "RelicMaterials": 100
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "SniperRifleC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200,
+            "rmat": 15
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "colonial"
+    },
+    "GrenadeC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "emat": 20
+        },
+        "productionTime": 100,
+        "quantity": 25,
+        "faction": "colonial"
+    },
+    "SMGC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 80
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "ATRPGW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "rmat": 25
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "warden"
+    },
+    "ATRPGAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 75,
+            "bmat": 60
+        },
+        "productionTime": 112.5,
+        "quantity": 15,
+        "faction": "none"
+    },
+    "ATRPGLightC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 60,
+            "emat": 50
+        },
+        "productionTime": 112.5,
+        "quantity": 15,
+        "faction": "colonial"
+    },
+    "ATRPGC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "rmat": 25
+        },
+        "productionTime": 50,
+        "quantity": 5,
+        "faction": "colonial"
+    },
+    "ATRPGHeavyC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150,
+            "rmat": 45
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "colonial"
+    },
+    "RifleC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "RifleLightC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 140
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "MGW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "rmat": 30
+        },
+        "productionTime": 100,
+        "quantity": 10,
+        "faction": "warden"
+    },
+    "HeavyArtilleryAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "Heavyemat": 10,
+            "bmat": 120
+        },
+        "productionTime": 65,
+        "quantity": 5,
+        "faction": "none"
+    },
+    "ATRPGTW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 200
+        },
+        "productionTime": 250,
+        "quantity": 5,
+        "faction": "warden"
+    },
+    "ATRPGIndirectAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 75,
+            "bmat": 60
+        },
+        "productionTime": 112.5,
+        "quantity": 15,
+        "faction": "none"
+    },
+    "PistolLightW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 60
+        },
+        "productionTime": 50,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "ExplosiveLightC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 40,
+            "bmat": 100
+        },
+        "productionTime": 100,
+        "quantity": 5,
+        "faction": "colonial"
+    },
+    "SMGHeavyW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 120
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "SMGHeavyC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 120
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "AssaultRifleHeavyW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 165
+        },
+        "productionTime": 80,
+        "quantity": 10,
+        "faction": "warden"
+    },
+    "ATGrenadeW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100,
+            "emat": 50
+        },
+        "productionTime": 75,
+        "quantity": 15,
+        "faction": "warden"
+    },
+    "AssaultRifleHeavyC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 165
+        },
+        "productionTime": 80,
+        "quantity": 10,
+        "faction": "colonial"
+    },
+    "MGHeavyTW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "warden"
+    },
+    "RifleHeavyC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 15,
+        "faction": "colonial"
+    },
+    "RifleHeavyW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 125
+        },
+        "productionTime": 80,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "RifleLongC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 155
+        },
+        "productionTime": 90,
+        "quantity": 15,
+        "faction": "colonial"
+    },
+    "RifleLongW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 130
+        },
+        "productionTime": 90,
+        "quantity": 15,
+        "faction": "warden"
+    },
+    "RifleAutomaticW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 125
+        },
+        "productionTime": 70,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "HeavyATAmmo": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "emat": 120,
+            "bmat": 120
+        },
+        "productionTime": 200,
+        "quantity": 20,
+        "faction": "none"
+    },
+    "MGTW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "warden"
+    },
+    "MGTC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 150
+        },
+        "productionTime": 125,
+        "quantity": 5,
+        "faction": "colonial"
+    },
+    "Wreckage": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 0,
+        "quantity": 0,
+        "faction": "none"
+    },
+    "AmmoUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "ArmourUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "ArmourUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "ChemicalUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "EngineerUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "EngineerUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "GrenadeUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "MedicUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "MedicUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "OfficerUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "OfficerUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "RainUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "ScoutUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "ScoutUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "SnowUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "SnowUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "SoldierUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "SoldierUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "TankUniformC": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "colonial"
+    },
+    "TankUniformW": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 100
+        },
+        "productionTime": 90,
+        "quantity": 20,
+        "faction": "warden"
+    },
+    "ListeningKit": {
+        "label": "",
+        "description": "",
+        "cost": {
+            "bmat": 120
+        },
+        "productionTime": 60,
+        "quantity": 3,
+        "faction": "none"
+    },
+    "SandbagMaterials": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 0,
+        "quantity": 0,
+        "faction": "none"
+    },
+    "BarbedWireMaterials": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 0,
+        "quantity": 0,
+        "faction": "none"
+    },
+    "MetalBeamMaterials": {
+        "label": "",
+        "description": "",
+        "cost": [],
+        "productionTime": 0,
+        "quantity": 0,
+        "faction": "none"
+    }
+}
