@@ -1,0 +1,3 @@
+[submodule "libs/tiler"]
+	path = libs/tiler
+	url = https://github.com/NoUDerp/Tiler
