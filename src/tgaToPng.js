@@ -42,8 +42,8 @@ async function createDirectory(path)
             // Save to png
             await tga2png(source + '/' + fileName, dest + '/' + saveName + '.png');
         }
-       
-    } 
+
+    }
  }
 
  module.exports = tgaToPng;

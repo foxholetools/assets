@@ -36,10 +36,12 @@ All images these are property of Clapfoot Inc.
 | ![atmortarwtripoditem.png](icons/items/atmortarwtripoditem.png) | atmortarwtripoditem.png |
 | ![atrifleammoitem.png](icons/items/atrifleammoitem.png) | atrifleammoitem.png |
 | ![atrifleitem.png](icons/items/atrifleitem.png) | atrifleitem.png |
+| ![atrifletc.png](icons/items/atrifletc.png) | atrifletc.png |
 | ![atrpgammoitem.png](icons/items/atrpgammoitem.png) | atrpgammoitem.png |
 | ![atrpgcitem.png](icons/items/atrpgcitem.png) | atrpgcitem.png |
 | ![atrpgitem.png](icons/items/atrpgitem.png) | atrpgitem.png |
 | ![atrpglightcitem.png](icons/items/atrpglightcitem.png) | atrpglightcitem.png |
+| ![atrpgtw.png](icons/items/atrpgtw.png) | atrpgtw.png |
 | ![bandagesitem.png](icons/items/bandagesitem.png) | bandagesitem.png |
 | ![barbedwirefencestructure.png](icons/items/barbedwirefencestructure.png) | barbedwirefencestructure.png |
 | ![barbedwirematerialitem.png](icons/items/barbedwirematerialitem.png) | barbedwirematerialitem.png |
@@ -115,6 +117,7 @@ All images these are property of Clapfoot Inc.
 | ![pistolammoitem.png](icons/items/pistolammoitem.png) | pistolammoitem.png |
 | ![pistolitem.png](icons/items/pistolitem.png) | pistolitem.png |
 | ![pistollightwitem.png](icons/items/pistollightwitem.png) | pistollightwitem.png |
+| ![pistolwitem.png](icons/items/pistolwitem.png) | pistolwitem.png |
 | ![prototypekit.png](icons/items/prototypekit.png) | prototypekit.png |
 | ![radiobackpackitem.png](icons/items/radiobackpackitem.png) | radiobackpackitem.png |
 | ![radioitem.png](icons/items/radioitem.png) | radioitem.png |
@@ -128,6 +131,7 @@ All images these are property of Clapfoot Inc.
 | ![resouceiron.png](icons/items/resouceiron.png) | resouceiron.png |
 | ![resouceironrefined.png](icons/items/resouceironrefined.png) | resouceironrefined.png |
 | ![resourcecopper.png](icons/items/resourcecopper.png) | resourcecopper.png |
+| ![resourcecopperrefined.png](icons/items/resourcecopperrefined.png) | resourcecopperrefined.png |
 | ![revolverammoitem.png](icons/items/revolverammoitem.png) | revolverammoitem.png |
 | ![revolveritem.png](icons/items/revolveritem.png) | revolveritem.png |
 | ![revolvingriflewitem.png](icons/items/revolvingriflewitem.png) | revolvingriflewitem.png |
@@ -246,6 +250,7 @@ All images these are property of Clapfoot Inc.
 | ![indicator_combat.png](icons/map/indicator_combat.png) | indicator_combat.png |
 | ![indicator_lock.png](icons/map/indicator_lock.png) | indicator_lock.png |
 | ![indicator_queue.png](icons/map/indicator_queue.png) | indicator_queue.png |
+| ![intelcenter.png](icons/map/intelcenter.png) | intelcenter.png |
 | ![legendchevron.png](icons/map/legendchevron.png) | legendchevron.png |
 | ![legenddiamond.png](icons/map/legenddiamond.png) | legenddiamond.png |
 | ![legenddot.png](icons/map/legenddot.png) | legenddot.png |
@@ -280,6 +285,7 @@ All images these are property of Clapfoot Inc.
 | ![staticbase2.png](icons/map/staticbase2.png) | staticbase2.png |
 | ![staticbase3.png](icons/map/staticbase3.png) | staticbase3.png |
 | ![storagefacility.png](icons/map/storagefacility.png) | storagefacility.png |
+| ![stormcannon.png](icons/map/stormcannon.png) | stormcannon.png |
 | ![strainingground.png](icons/map/strainingground.png) | strainingground.png |
 | ![sulfur.png](icons/map/sulfur.png) | sulfur.png |
 | ![sulfurmine.png](icons/map/sulfurmine.png) | sulfurmine.png |
@@ -359,6 +365,7 @@ All images these are property of Clapfoot Inc.
 | ![btcommendnormal.png](icons/menus/btcommendnormal.png) | btcommendnormal.png |
 | ![btcopyaccesscode.png](icons/menus/btcopyaccesscode.png) | btcopyaccesscode.png |
 | ![btdemolish.png](icons/menus/btdemolish.png) | btdemolish.png |
+| ![btdisassembletripod.png](icons/menus/btdisassembletripod.png) | btdisassembletripod.png |
 | ![btdisband.png](icons/menus/btdisband.png) | btdisband.png |
 | ![btdiscord.png](icons/menus/btdiscord.png) | btdiscord.png |
 | ![btdiscordnormal.png](icons/menus/btdiscordnormal.png) | btdiscordnormal.png |
@@ -527,6 +534,7 @@ All images these are property of Clapfoot Inc.
 | ![encampment.png](icons/structures/encampment.png) | encampment.png |
 | ![engineroom.png](icons/structures/engineroom.png) | engineroom.png |
 | ![engineroompipe.png](icons/structures/engineroompipe.png) | engineroompipe.png |
+| ![fieldbridgeitem.png](icons/structures/fieldbridgeitem.png) | fieldbridgeitem.png |
 | ![fieldhospital.png](icons/structures/fieldhospital.png) | fieldhospital.png |
 | ![firepit.png](icons/structures/firepit.png) | firepit.png |
 | ![fortimodbunkbed.png](icons/structures/fortimodbunkbed.png) | fortimodbunkbed.png |
@@ -577,6 +585,7 @@ All images these are property of Clapfoot Inc.
 | ![heavyartilleryc.png](icons/structures/heavyartilleryc.png) | heavyartilleryc.png |
 | ![heavyartilleryw.png](icons/structures/heavyartilleryw.png) | heavyartilleryw.png |
 | ![hospital.png](icons/structures/hospital.png) | hospital.png |
+| ![infantrygarrisons.png](icons/structures/infantrygarrisons.png) | infantrygarrisons.png |
 | ![intelligencecenter.png](icons/structures/intelligencecenter.png) | intelligencecenter.png |
 | ![longrangedartillery.png](icons/structures/longrangedartillery.png) | longrangedartillery.png |
 | ![mgpillbox.png](icons/structures/mgpillbox.png) | mgpillbox.png |
@@ -635,6 +644,7 @@ All images these are property of Clapfoot Inc.
 | ![armoredcarmobilitywarvehicle.png](icons/vehicles/armoredcarmobilitywarvehicle.png) | armoredcarmobilitywarvehicle.png |
 | ![armoredcaroffensivecvehicle.png](icons/vehicles/armoredcaroffensivecvehicle.png) | armoredcaroffensivecvehicle.png |
 | ![armoredcaroffensivewvehicle.png](icons/vehicles/armoredcaroffensivewvehicle.png) | armoredcaroffensivewvehicle.png |
+| ![armoredcartwincitem.png](icons/vehicles/armoredcartwincitem.png) | armoredcartwincitem.png |
 | ![armoredcarvehicle.png](icons/vehicles/armoredcarvehicle.png) | armoredcarvehicle.png |
 | ![armoredcarwarvehicle.png](icons/vehicles/armoredcarwarvehicle.png) | armoredcarwarvehicle.png |
 | ![artillery.png](icons/vehicles/artillery.png) | artillery.png |
