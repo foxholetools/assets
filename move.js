@@ -14,6 +14,7 @@ const directorys = [
     { source: 'HexMaps', dest: 'maps/satellite' },
     { source: 'HexMaps/Processed', dest: 'maps/clasic' },
     { source: 'ItemIcons', dest: 'icons/items' },
+	{ source: 'Slate/Images', dest: 'icons/items' }, // "Textures\War\Content\Slate\Images"
 	{ source: 'ItemIcons/Uniforms', dest: 'icons/uniforms' },
     { source: 'MapIcons', dest: 'icons/map' },
     { source: 'MapIcons/Intel', dest: 'icons/map' },
@@ -37,6 +38,7 @@ async function run()
 		const filesList = fs.readdirSync(sourcePath);
 		for await (fileName of filesList)
 		{
+			console.log(fileName);
 			const filePath = sourcePath + '/' + fileName;
 			
 			// Fix name
