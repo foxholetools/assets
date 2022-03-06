@@ -5,11 +5,15 @@ All images these are property of Clapfoot Inc.
 | Image | Path |
 | - | - |
 | ![ammouniformw.png](icons/uniforms/ammouniformw.png) | ammouniformw.png |
+| ![armouruniformc.png](icons/uniforms/armouruniformc.png) | armouruniformc.png |
+| ![armouruniformw.png](icons/uniforms/armouruniformw.png) | armouruniformw.png |
 | ![engineeruniformc.png](icons/uniforms/engineeruniformc.png) | engineeruniformc.png |
 | ![engineeruniformw.png](icons/uniforms/engineeruniformw.png) | engineeruniformw.png |
 | ![grenadeuniformc.png](icons/uniforms/grenadeuniformc.png) | grenadeuniformc.png |
 | ![medicuniformc.png](icons/uniforms/medicuniformc.png) | medicuniformc.png |
 | ![medicuniformw.png](icons/uniforms/medicuniformw.png) | medicuniformw.png |
+| ![officeruniformc.png](icons/uniforms/officeruniformc.png) | officeruniformc.png |
+| ![officeruniformw.png](icons/uniforms/officeruniformw.png) | officeruniformw.png |
 | ![rainuniformc.png](icons/uniforms/rainuniformc.png) | rainuniformc.png |
 | ![scoutuniformc.png](icons/uniforms/scoutuniformc.png) | scoutuniformc.png |
 | ![scoutuniformw.png](icons/uniforms/scoutuniformw.png) | scoutuniformw.png |
@@ -217,6 +221,8 @@ All images these are property of Clapfoot Inc.
 | ![wall-t3.png](icons/items/wall-t3.png) | wall-t3.png |
 | ![workwrench.png](icons/items/workwrench.png) | workwrench.png |
 | ![wounded.png](icons/items/wounded.png) | wounded.png |
+| ![grenadelaunchercitem.png](icons/items/grenadelaunchercitem.png) | grenadelaunchercitem.png |
+| ![helaunchedgrenadeitem.png](icons/items/helaunchedgrenadeitem.png) | helaunchedgrenadeitem.png |
 
 # Map
 
@@ -655,6 +661,7 @@ All images these are property of Clapfoot Inc.
 | ![advancedconstruction.png](icons/vehicles/advancedconstruction.png) | advancedconstruction.png |
 | ![ambulance.png](icons/vehicles/ambulance.png) | ambulance.png |
 | ![ambulancewar.png](icons/vehicles/ambulancewar.png) | ambulancewar.png |
+| ![armoredcaratwvehicle.png](icons/vehicles/armoredcaratwvehicle.png) | armoredcaratwvehicle.png |
 | ![armoredcardefensivevehicle.png](icons/vehicles/armoredcardefensivevehicle.png) | armoredcardefensivevehicle.png |
 | ![armoredcarmobilitywarvehicle.png](icons/vehicles/armoredcarmobilitywarvehicle.png) | armoredcarmobilitywarvehicle.png |
 | ![armoredcaroffensivecvehicle.png](icons/vehicles/armoredcaroffensivecvehicle.png) | armoredcaroffensivecvehicle.png |
