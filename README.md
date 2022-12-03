@@ -13,7 +13,10 @@ Refer to [README.md](https://github.com/foxhole-tools/assets/tree/main/dist/READ
 - [windows-build-tools](https://www.npmjs.com/package/windows-build-tools) (Windows only)
 - [node-gyp](https://www.npmjs.com/package/node-gyp#on-windows) (Windows only)
 
-## Extract game contents
+## Extrac game content (FModel)
+- Download FModel https://github.com/4sval/FModel
+
+## Extract game contents (Umode)
 
 PRE-REQUISITES: 
 - Unreal Engine VERSION 4.24 installed (it's huge)
