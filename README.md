@@ -12,7 +12,7 @@ This repository will contain:
 
 ## Usage
 
-This repository is designed to be used as a Git submodule in the main [foxhole-game](https://github.com/foxholetools/foxhole-game) extractor project.
+This repository is designed to be used as a Git submodule in the main [docker](https://github.com/foxholetools/docker) extractor project.
 
 ## Use Cases
 
