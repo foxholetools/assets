@@ -14,6 +14,36 @@ This repository will contain:
 
 This repository is designed to be used as a Git submodule in the main [foxhole-game](https://github.com/foxholetools/foxhole-game) extractor project.
 
+## Use Cases
+
+### Modding & Fan Art
+
+- Create vehicle reskins and faction variants
+- Design custom unit insignias
+- Analyze official color palettes and material properties
+- Generate high-resolution wallpapers and posters
+
+### Community Documentation
+
+- Build visual wikis with accurate asset representations
+- Create equipment comparison guides
+- Document vehicle specifications and variations
+- Produce tutorial content for new players
+
+### Game Design Education
+
+- Study AAA game asset structure and organization
+- Analyze texture resolution and optimization techniques
+- Learn PBR material workflows
+- Understand Unreal Engine 4.27 asset pipeline
+
+### Analysis & Research
+
+- Track visual evolution across game updates
+- Document faction aesthetic differences
+- Study environmental storytelling through props
+- Analyze technical art and optimization strategies
+
 ## License & Credits
 
 ### Game Assets
