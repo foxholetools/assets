@@ -64,9 +64,12 @@ These assets are provided for:
 - ✅ **Educational purposes** - Learning game design, asset structure
 - ✅ **Personal use** - Fan art, wallpapers, community documentation
 - ✅ **Non-commercial analysis** - Wiki contributions, visual guides
-- ❌ **NOT for redistribution** - Do not share publicly beyond this repository
-- ❌ **NOT for commercial use** - No selling or monetization
-- ❌ **NOT for competing games** - Respect intellectual property
+
+Users must respect:
+
+- ❌ **No commercial use** - No selling or monetization
+- ❌ **No competing games** - Respect intellectual property rights
+- ⚠️ **Comply with Foxhole ToS** - Follow game's terms of service
 
 ### Fair Use Disclaimer
 
